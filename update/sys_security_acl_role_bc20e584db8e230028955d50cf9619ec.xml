@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-23 11:41:46</sys_created_on>
+        <sys_id>bc20e584db8e230028955d50cf9619ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_245404_my_custom_lms.x_245404_my_custom.user</sys_name>
+        <sys_package display_value="My Custom Application" source="x_245404_my_custom">91e2f8c8db0e230028955d50cf96193b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Custom Application">91e2f8c8db0e230028955d50cf96193b</sys_scope>
+        <sys_security_acl display_value="x_245404_my_custom_lms">7420e584db8e230028955d50cf9619ea</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_bc20e584db8e230028955d50cf9619ec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-23 11:41:46</sys_updated_on>
+        <sys_user_role display_value="x_245404_my_custom.user" name="x_245404_my_custom.user">1de2300cdb0e230028955d50cf96196f</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="caller" label="Caller" language="en" table="x_245404_my_custom_lms">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>caller</element>
+            <help/>
+            <hint/>
+            <label>Caller</label>
+            <language>en</language>
+            <name>x_245404_my_custom_lms</name>
+            <plural>Callers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-23 11:43:15</sys_created_on>
+            <sys_id>2a70e984db8e230028955d50cf9619e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Caller</sys_name>
+            <sys_package display_value="My Custom Application" source="x_245404_my_custom">91e2f8c8db0e230028955d50cf96193b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My Custom Application">91e2f8c8db0e230028955d50cf96193b</sys_scope>
+            <sys_update_name>sys_documentation_x_245404_my_custom_lms_caller_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-23 11:43:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

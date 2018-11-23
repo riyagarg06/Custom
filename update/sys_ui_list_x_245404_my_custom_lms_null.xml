@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_245404_my_custom_lms" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_245404_my_custom_lms" element="NULL" name="x_245404_my_custom_lms" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3a706d84db8e230028955d50cf961915</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-23 11:43:16</sys_created_on>
+            <sys_id>3e706d84db8e230028955d50cf961915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-23 11:43:16</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>caller</element>
+            <list_id display_value="x_245404_my_custom_lms" element="NULL" name="x_245404_my_custom_lms" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3a706d84db8e230028955d50cf961915</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-23 11:43:16</sys_created_on>
+            <sys_id>be706d84db8e230028955d50cf961915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-23 11:43:16</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_245404_my_custom_lms</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-23 11:43:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3a706d84db8e230028955d50cf961915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_245404_my_custom_lms</sys_name>
+            <sys_package display_value="My Custom Application" source="x_245404_my_custom">91e2f8c8db0e230028955d50cf96193b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My Custom Application">91e2f8c8db0e230028955d50cf96193b</sys_scope>
+            <sys_update_name>sys_ui_list_x_245404_my_custom_lms_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-23 11:43:16</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

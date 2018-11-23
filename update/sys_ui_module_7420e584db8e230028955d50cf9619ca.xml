@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="My Custom Application">ac20e584db8e230028955d50cf9619c7</application>
+        <filter/>
+        <name>LMSs</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_245404_my_custom.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-23 11:41:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7420e584db8e230028955d50cf9619ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LMSs</sys_name>
+        <sys_package display_value="My Custom Application" source="x_245404_my_custom">91e2f8c8db0e230028955d50cf96193b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Custom Application">91e2f8c8db0e230028955d50cf96193b</sys_scope>
+        <sys_update_name>sys_ui_module_7420e584db8e230028955d50cf9619ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-23 11:41:45</sys_updated_on>
+        <table>x_245404_my_custom_lms</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
